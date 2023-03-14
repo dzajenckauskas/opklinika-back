@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reimbursement_percentages",
+  "info": {
+    "singularName": "reimbursement-percentage",
+    "pluralName": "reimbursement-percentages",
+    "displayName": "ReimbursementPercentage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    }
+  }
+}

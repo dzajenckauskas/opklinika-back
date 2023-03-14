@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_diagnoses_table_diags",
+  "info": {
+    "displayName": "diag",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}

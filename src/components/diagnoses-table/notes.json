@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_diagnoses_table_notes",
+  "info": {
+    "displayName": "notes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}

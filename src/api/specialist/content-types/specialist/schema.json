@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "specialists",
+  "info": {
+    "singularName": "specialist",
+    "pluralName": "specialists",
+    "displayName": "Specialists",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "specialisation": {
+      "type": "string"
+    }
+  }
+}

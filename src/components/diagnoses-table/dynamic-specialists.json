@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_diagnoses_table_dynamic_specialists",
+  "info": {
+    "displayName": "dynamicSpecialists"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_diagnoses_table_diagnoses_tables",
+  "info": {
+    "displayName": "diagnosesTable",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "diagnoses": {
+      "displayName": "diag",
+      "type": "component",
+      "repeatable": true,
+      "component": "diagnoses-table.diag"
+    },
+    "percent": {
+      "type": "string"
+    },
+    "specialists": {
+      "type": "text"
+    },
+    "notes": {
+      "displayName": "notes",
+      "type": "component",
+      "repeatable": true,
+      "component": "diagnoses-table.notes"
+    }
+  }
+}
