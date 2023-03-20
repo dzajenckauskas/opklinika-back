@@ -4,7 +4,8 @@
   "info": {
     "singularName": "category",
     "pluralName": "categories",
-    "displayName": "Categories"
+    "displayName": "Categories",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,8 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "title": {
-      "type": "string",
-      "private": true
+      "type": "string"
     },
     "products": {
       "type": "relation",

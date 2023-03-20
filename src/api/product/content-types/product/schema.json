@@ -50,6 +50,19 @@
       "type": "component",
       "repeatable": true,
       "component": "diagnoses-table.diagnoses-table"
+    },
+    "notes": {
+      "displayName": "notes",
+      "type": "component",
+      "repeatable": true,
+      "component": "notes.notes"
+    },
+    "prices": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string",
+      "unique": true
     }
   }
 }

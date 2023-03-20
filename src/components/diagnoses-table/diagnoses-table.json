@@ -6,23 +6,17 @@
   },
   "options": {},
   "attributes": {
-    "diagnoses": {
-      "displayName": "diag",
-      "type": "component",
-      "repeatable": true,
-      "component": "diagnoses-table.diag"
-    },
     "percent": {
       "type": "string"
     },
     "specialists": {
       "type": "text"
     },
-    "notes": {
-      "displayName": "notes",
+    "diagnoses": {
+      "displayName": "diagnoses",
       "type": "component",
       "repeatable": true,
-      "component": "diagnoses-table.notes"
+      "component": "diagnoses.diagnoses"
     }
   }
 }

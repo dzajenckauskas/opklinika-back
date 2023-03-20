@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_diagnoses_diagnoses",
+  "info": {
+    "displayName": "diagnoses"
+  },
+  "options": {},
+  "attributes": {
+    "diagnose": {
+      "type": "string"
+    }
+  }
+}
