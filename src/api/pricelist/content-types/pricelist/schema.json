@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pricelists",
+  "info": {
+    "singularName": "pricelist",
+    "pluralName": "pricelists",
+    "displayName": "Pricelists",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "serviceLines": {
+      "displayName": "ServiceGroup",
+      "type": "component",
+      "repeatable": true,
+      "component": "service-group.service-group"
+    },
+    "notes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "notes.notes"
+    }
+  }
+}

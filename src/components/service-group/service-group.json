@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_service_group_service_groups",
+  "info": {
+    "displayName": "ServiceGroup",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
