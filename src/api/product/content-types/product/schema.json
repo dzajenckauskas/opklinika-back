@@ -62,9 +62,13 @@
     },
     "slug": {
       "type": "string",
-      "unique": true
+      "unique": true,
+      "required": true
     },
     "isNew": {
+      "type": "boolean"
+    },
+    "individualyMade": {
       "type": "boolean"
     }
   }
