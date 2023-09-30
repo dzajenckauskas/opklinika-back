@@ -1,12 +1,13 @@
 {
   "collectionName": "components_notes_notes",
   "info": {
-    "displayName": "notes"
+    "displayName": "notes",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "text": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
